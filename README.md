@@ -1,0 +1,2 @@
+# ReleaseNoteTest
+ Release Drafter
